@@ -1,4 +1,4 @@
-package main;
+package basic;
 
 import "fmt"
 
@@ -25,9 +25,28 @@ func variableInitiaValue()  {
 }
 
 
+
 func main() {
 	fmt.Println("hello world")
 	variableZeroValue();
 	variableInitiaValue();
 	fmt.Println(aa,bb,cc)
 }
+
+
+
+
+/**
+
+
+hello world
+
+0 ""
+
+0 0   3 123 true 黄
+
+3 3 3
+
+
+
+ */
