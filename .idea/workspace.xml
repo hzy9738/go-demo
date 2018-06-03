@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b4745cc-a2d7-4084-bc79-aca1398c5c75" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/basic/math.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/basic/array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/basic/func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/basic/ifelse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/basic/slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/basic/while.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/print.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/print.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/math.go" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/math.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,20 +23,74 @@
       <file leaf-file-name="print.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic/basic/print.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="math.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="math.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic/basic/math.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="765">
+              <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ifelse.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/basic/ifelse.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
               <folding>
-                <element signature="e#14#46#0" expanded="true" />
+                <element signature="e#14#44#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="while.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/basic/while.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="func.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/basic/func.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/basic/array.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slice.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic/basic/slice.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -58,6 +116,13 @@
         <option value="$PROJECT_DIR$/print.go" />
         <option value="$PROJECT_DIR$/basic/basic/print.go" />
         <option value="$PROJECT_DIR$/basic/basic/math.go" />
+        <option value="$PROJECT_DIR$/basic/basic/text.txt" />
+        <option value="$PROJECT_DIR$/basic/basic/ifelse.go" />
+        <option value="$PROJECT_DIR$/text.txt" />
+        <option value="$PROJECT_DIR$/basic/basic/while.go" />
+        <option value="$PROJECT_DIR$/basic/basic/func.go" />
+        <option value="$PROJECT_DIR$/basic/basic/array.go" />
+        <option value="$PROJECT_DIR$/basic/basic/slice.go" />
       </list>
     </option>
   </component>
@@ -71,7 +136,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
+    <option name="x" value="21" />
     <option name="y" value="62" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
@@ -82,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,6 +169,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,11 +184,12 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/basic/basic" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/basic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic/basic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -138,86 +204,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build math.go">
-    <configuration name="go build echo.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build slice.go">
+    <configuration name="go build array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/echo.go" />
+      <filePath value="$PROJECT_DIR$/basic/basic/array.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build echo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build func.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/echo.go" />
+      <filePath value="$PROJECT_DIR$/basic/basic/func.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build math.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build ifelse.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/basic/basic/math.go" />
+      <filePath value="$PROJECT_DIR$/basic/basic/ifelse.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build print.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build slice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/basic/basic/print.go" />
+      <filePath value="$PROJECT_DIR$/basic/basic/slice.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build print.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build while.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/print.go" />
+      <filePath value="$PROJECT_DIR$/basic/basic/while.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build echo.go" />
-      <item itemvalue="Go Build.go build echo.go (1)" />
-      <item itemvalue="Go Build.go build print.go" />
-      <item itemvalue="Go Build.go build print.go (1)" />
-      <item itemvalue="Go Build.go build math.go" />
+      <item itemvalue="Go Build.go build ifelse.go" />
+      <item itemvalue="Go Build.go build while.go" />
+      <item itemvalue="Go Build.go build func.go" />
+      <item itemvalue="Go Build.go build array.go" />
+      <item itemvalue="Go Build.go build slice.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build math.go" />
-        <item itemvalue="Go Build.go build print.go (1)" />
-        <item itemvalue="Go Build.go build print.go" />
-        <item itemvalue="Go Build.go build echo.go (1)" />
-        <item itemvalue="Go Build.go build echo.go" />
+        <item itemvalue="Go Build.go build slice.go" />
+        <item itemvalue="Go Build.go build array.go" />
+        <item itemvalue="Go Build.go build func.go" />
+        <item itemvalue="Go Build.go build while.go" />
+        <item itemvalue="Go Build.go build ifelse.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="62" width="1400" height="757" extended-state="0" />
+    <frame x="21" y="62" width="1400" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26509574" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2724595" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3409091" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3409091" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3287879" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +294,79 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basic/basic/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/math.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/ifelse.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/while.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/func.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/array.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/slice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/math.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/print.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/basic/print.go">
@@ -237,18 +376,62 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.go" />
     <entry file="file://$PROJECT_DIR$/basic/basic/print.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/text.txt" />
     <entry file="file://$PROJECT_DIR$/basic/basic/math.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="765">
+          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/text.txt" />
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/ifelse.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
           <folding>
-            <element signature="e#14#46#0" expanded="true" />
+            <element signature="e#14#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/while.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/func.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/array.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/basic/slice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
         </state>
       </provider>
     </entry>

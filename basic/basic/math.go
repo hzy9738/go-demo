@@ -53,8 +53,12 @@ func enums()  {
 		pb
 	)
 
+	var a int
+	a = 1 << 10
+
 	fmt.Println(js , python , golang ,php )
 	fmt.Println(b , kb, mb, gb, tb, pb)
+	fmt.Println(a)
 }
 
 
